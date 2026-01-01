@@ -7,7 +7,889 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fc03895-b4c4-427e-a791-6243f6889356" name="更改" comment="" />
+    <list default="true" id="0fc03895-b4c4-427e-a791-6243f6889356" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/AIM/AO_Rifle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Left.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jump/MM_Dash.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/ABP_FP_Copy.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/BP_FirstPersonCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/BP_FirstPersonGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/BP_HorrorCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/BP_HorrorGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/Materials/LF_Flicker.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/Materials/M_Light.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/NS_DustMote.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Input/IA_Sprint.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Input/IMC_Horror.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/UI/UI_Horror.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/ABP_FP_Pistol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/ABP_FP_Weapon.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/ABP_TP_Pistol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/ABP_TP_Rifle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/BP_ShooterAIController.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/BP_ShooterNPC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/BP_ShooterNPCSpawner.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/EQS_FindRoamLocation.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/EQS_FindSnipingLocation.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/ST_Shooter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/AI/ST_Shooter_ShootAtTarget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/BP_ShooterGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/BP_ShooterWeaponBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/DT_WeaponData.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_GrenadeLauncher.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Pistol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Input/Actions/IA_Shoot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Input/Actions/IA_SwapWeapon.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Input/BPI_Touch_Shooter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Input/IMC_Weapons.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Input/UI_TouchInterface_Shooter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/UI/M_BulletCounter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/UI/UI_Shooter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/UI/UI_ShooterBulletCounter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Actions/IA_Jump.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Actions/IA_Look.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Actions/IA_MouseLook.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Actions/IA_Move.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/IMC_Default.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/IMC_MouseLook.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Touch/BPI_TouchInterface.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Touch/UI_TouchSimple.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Maps/Lvl_FirstPerson.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Maps/Lvl_Horror.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Maps/Lvl_Shooter.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/Materials/MI_GlowNT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/NS_JumpPad.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Target/Assets/SM_TargetBaseMesh.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Target/BP_WobbleTarget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/M_PrototypeGrid.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_Cylinder.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_QuarterCylinder.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Textures/T_GridChecker_A.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Materials/M_GrenadeLauncher.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Meshes/FirstPersonProjectileMesh.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Textures/T_FPGun_M.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Textures/T_FPGun_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Meshes/SM_Pistol.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Textures/T_Pistol_AORM.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Textures/T_Pistol_D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Textures/T_Pistol_Masks.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Textures/T_Pistol_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Materials/M_Weapon.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Meshes/SM_Rifle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Textures/T_Rifle_BC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Textures/T_Rifle_N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/53/0THMGA09Y34OWTVCDCSEFT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/BS/AE57JY08VH0X1WZNA58924.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/DM/J0M5B14I1IB8AP3LS523L7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/F2/PIHVKN82V16NI6XRJQ3Y70.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/Y3/CAPBMPG2L1NS4M7B4XT7WO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/0/YN/N00XZ81LLIND6RSR4UEA6F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/1/38/RJQ663OND679SNAD78TFVV.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/1/3X/L8SQ993R9DAROV0HKTDTZN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/1/MA/SRCQTIV999YJHC1LNBGCR6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/1/P3/58GNOZJVBADPVWMBZTC5F9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/2/LK/W3BH0J3H8VFQEG6ILJIS81.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/2/Z4/MRED1PCRYPWK5PKD468JL4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/3/BI/QTL5WOK40AQIZ4PQJJDPUI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/3/DD/KHRMCDQ5BVXP50XZCNIVB7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/3/IU/XSS8B6O7CB9TQ4PN1P3JQT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/3/MJ/PEALHNAIP75O64BFJG0CU9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/3/TB/AQ8ROKUCU7YY4C86SOCU9X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/4/03/Z020CRSMW19VQG1XCXWLNZ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/4/BD/53A3B3ZF1927YS6JL07M3G.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/4/GD/Q39O88KSTVH6XFNA4BTSNS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/5/DZ/YZNBNUGN05087XRLDEK9GB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/5/HI/PN4XS0HSIH0XRT6UA3PDXN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/5/TT/Q9IECIXQ43NNEZ75JZ5DSK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/5/ZB/N5TYX77B4P1DNTYARE3P3F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/CN/TAXDGPO0M4AKAHNS45A83Y.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/KX/0IN6VALI29953YQ6J0XCBJ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/M2/31OJ582LOANFQJIWSVPKSH.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/TL/GZG5BBDEI7RN0CAD5S2AHU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/VV/S15EWHYAUPZNIO2JDB1WA6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/4T/TVEUFJJVR169URKKEIDM8G.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/K9/GQ5FBJYJXYKG434EPCNVLC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/KQ/2ESD158QZ57AQ2OI8HPB1D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/PL/1UM7Q1OADVL1PNGIB49UP6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/SB/UAK3A8OFVDWLZ38BMGP631.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/7/YR/U8ORZ1JPLAD88JXMRDMB4A.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/9I/AIBI9IDP0ZTN26H121N0TI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/C9/KFJ1VXX36WI43DZTWFBYM1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/F9/O9LU20IIF0KNLIT8EQG7PJ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/UB/6GGTP7HNQ9WCDH3O0LFIVA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/WQ/EFNDTP86PH5VDA2DXGMEYN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/8/WQ/SWO7BWL05SB1WETN4EPB1G.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/9/2W/UN22F5MH8WW97U3BLS3E6U.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/9/MF/DB7Y5JVNEOTGNN9FQOLDZC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/9/VY/0763ERN86FIAOPNN202DXK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/A/13/SF18CI5HPW2548SSWTL15C.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/A/67/NPLZG61O4HSJVNTUS4ZB8Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/A/C7/KWJNG09IXAANS6WBBQTYHX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/A/F7/E6SYYEI13P7XBS58U9LQFK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/0P/FJ1FYLZIIM6BD1AG5EOJPB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/5J/FZRHCK58FK7MCU6QNQNQXT.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/D3/NZYPPGPV10RN7H0HCAEYQY.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/DN/S7B1WRD1YF4AP9IFLVR42A.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/N6/3R1WTHSEP168N5C8KXPHGS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/R8/LZFIQZ1H4AS9EQ8YLO950F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/B/XQ/PN33X1UQPNO9ZSRSVIVDKE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/C/33/3VCY78DDLHEU21R7O724JZ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/C/6R/JC78AL5YSBA0T2U41RLBHN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/C/BB/CIO0SVLYFWFLSR54OU1JT7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/D/1M/MDTMSGK4M1NOQF0T4MJR0G.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/D/J8/PRYHULJR5R3LM1RLWZ1TNO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/D/O7/OPOTZP3EHMCE669P4QB37E.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/E/M0/2M5YJ5NK7DJH40EBGTWP88.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/E/NT/GVQRY03CYM8HVOLIZ2R30Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/0/H2/D2J4TLXAXIRGMR89MW2CCA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/0/ZE/O5AI9PP1DYWZU405X21ERI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/1/LZ/O8OELLEOC1DR7OVP841L8T.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/1/NO/DI7Y13AEUX4WRBFOCZBOP1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/1/U2/ZAL7AYC7EEP5V9JWGZ353C.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/1/W0/J3E4LZDIQP2YCZAQ8YG29G.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/1/WX/F0PM2KF86C5Z3HUDQC32BG.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/2/MK/N7I2H8OMS9HPV3G8FZAF7I.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/2/NT/VH94QRLI4YPD35RESBYAEB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/2/PL/BRQIOTV9GZRX44E4TQNEHZ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/3/06/KTOWV44IN65LJ1MQMF4PNA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/3/6E/8U3F1RQWNQ2RN5Q7TBRUE2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/1P/Z1IRLSUYU01PMXDL8NQG5F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/38/0Y66FSYK8ZOGM73G31ZBOH.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/BU/JBIK4TSND1LA8GY0VDP50E.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/LN/9SRHIX428ZQMEAHEXET1DZ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/PE/STCIR41IA440Y9W0330U3X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/PW/8FVNASPXTGL0JGFSJ4YHUA.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/QI/4MI0FY6DUFS7G0POZRTA08.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/WK/TUIP1ZGQYZPZTJ0F06TOA5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/4/YO/3D3XKVLZO9LUMI5QLKFXRL.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/1E/3D94NSPM9XIXZ05ZM3PO5T.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/D6/9TDCD2CPNNODF9FW1A95H3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/LL/NKLUSTQPSFNVQBCIQFNYEX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/SK/FLT2G3A7GUP04GK6F6EZ79.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/UP/9NUXJ2KAXX1BD4AETMLYPW.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/W0/0K50IGR09SWOFLARN21X16.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/W1/A1UNUO66B77LDABTLPH63Y.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/ZE/RN29V9R3GION85QHK7UP6P.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/0U/S1BP34QG3EJ60742UFTLER.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/3W/7CUXGT2T7J1TO5LNDW63FX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/6N/HZX40P919ZPA36MBP25Q5J.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/G2/0ZBLG7ZQW3WDITAZ42ZL6D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/K5/Q5A8K798UJQJZCPXEMQF9I.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/6/ZF/QPUNXUNU9HBM7UMM40WGLO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/4H/6CZWT949M0YB86GAOOV9PK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/5H/LZIZCY7MSH6WYW9NQ8MC99.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/II/NASC6G0QPLFXFXXWA6XCV5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/PH/2R3TQ3BKQEVH8JON3RC58Z.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/WZ/7XM2I4PFUJ4W0XPI886NGJ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/8/DI/4B6640FS24HYHXEWC07CVQ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/8/F1/EOW6XGFU7OBWWKQ014TC00.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/8/LB/HVODGEFUOGAJS3ABQACM2X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/8/YL/F0RFD8Q8XD15RTCD5002KS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/8/Z6/FB9OG0JQWVU2AX1ASHNX2Y.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/9/61/LOI3GGIXO2N7ZKG5KVFR1Z.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/9/BV/3O5OFXS5FHKME9135ULH2S.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/4R/FL04WDO8JHOF7Y7C02E8T1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/6T/PYRUMG4S70278GQLKD3YIK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/HM/LM4XGEBQK856836JES4YJQ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/KJ/CI6LWSI069KWWTK3LJA4C2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/VX/X67X5BT6ATSB5T6FD3KZJE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/A/XA/TSDUFW4CIKM1TU7IQVJXF8.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/B/AZ/KQA1JQ00F0V18OGL39A59B.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/B/II/58TJ2XYAEAV3ZYRKHXP97W.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/00/N0J6UKZI36UVFBQAK1F5WC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/AG/PZEQBOEYN1ORVHUECI2689.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/JB/ZY0QGM4812M3HAZ0ANZXND.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/KL/20391MCOUZ02FHZVAHYYG9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/KX/YV1N0OPAQOPAI9Q93URUCB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/C/ZG/29WGS6BSH0ES1HNH8TNUDL.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/2S/7D0C8JTW546SYYFGTFMZR0.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/3D/6XG4Z8VND7YNG5YZ4EF3T6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/6H/DZYN9Q570JWQ745S2QW4AP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/BL/OBZ60BI3OMC572JJO3BTBS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/CR/1FTDV71MQN0Y0OQ48NNT1Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/IS/C4OOVYPH3HIWITA6SD0CD4.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/P8/2N8L24LN3MZ623A918WH6F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/PU/RTXCB1CLXYSUOL6J5W7SEX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/S1/ZBGEJRFCCLVOU6FWQDUGYL.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/E/19/W812SG8EM3G5A8D4V8YN12.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/E/9A/3LSLO3A5HRLTF1AKBGYLFK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/E/PM/97U01EE71EVH861EQE37G0.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/E/PT/IYOQ4BO3PODW1TPQI8ANW1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/3B/2YP8P2YRHS8CJQXWOKR2A1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/8L/3HQ7PYCR0T94M2L8Y8138D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/9W/VBPJ07ON342833QDUSN88K.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/AQ/4BCU1WCQR4WEHTOW2UTPLK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/ET/AEXOPEE2307IUEJWIGP21R.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/FI/LJ4YPFDSBEM9NUC4WCI8V6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/KB/XED9HCIJ3EEQUMVX2MLZRE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/OV/Z5U76KH8H1L8S9MPLHJB13.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/OW/GR6FMDGR6R3NZF5VQ1Y056.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/P9/I8ZDMFQMXX97WXK74Z9PKU.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/WB/T1WBTTAPBUOC7TVVHUHH7C.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/WH/ZJ75F5BAFSCAOISJ0DAUJO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/8G/30KOVTRXNMGROE1DI58AP2.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/9Z/39GGCPKL5NG0MQVRY7AXQ3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/EN/D5BJCZVTT2O4056OR6NK31.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/FM/CRHFJMQTNC9JXLEQMDRNHC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/U5/A580IN659QUUCLS4Q5KGW7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/XE/4ZNU2NYF2UUPYLQ8RQPZ3H.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/2D/I5JQNCWOZBZKS2TSPK4WAG.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/2Z/LRZL0ZARTT3D29P6WXO0BR.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/5V/6B59DTR6FNZS4DL3LERLUO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/GU/J1D0GDV0IVDLL36GSZ1H5P.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/N6/2CW1YWY6HOQGYQHNW0SV27.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/OQ/H2EROU5TZJJF336P9GU8QP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/VB/1IU3VBYXDRX7YDWS94JIRI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/08/ULFRBBXRTRKCPRQZ7ME25Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/6N/3YRXKUMYLJUEA6L6BUGD0Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/9J/QUU288ILRGC123SV0RFRM5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/IY/B0G1H5WTVVYUXQQRYIETFH.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/K9/DCPSA2EB7LYLIB2ODLQMPB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/LS/Z8OIUSE3C3RZUFPT99QPD7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/PK/HM18NWYKKR4SR0JTZ7O0TD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/5/HI/R6BAX3CKZ1B4HIX2NM26PH.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/CY/54QOJHTJHQ7446XUOLCKLM.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/KN/BHNDMB0EBN722ONENCQP8W.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/QY/1L6BRUGY1X0934MU7FLU0U.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/R1/2EJF8HY4E4NI2O459LG2EE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/WM/JV1A920J5CCZ5FRMRDZZRG.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/MC/9J2PX7ZHST33Q3H31RP5L9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/ML/USJHXQVRSFXX1K82UBPT4X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/U2/RJ68TPPJQWRQH7WSRLQ08X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/WW/XP177PVKAWPSURF2RW516F.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/67/ROT9Y8LPLYV2GYYS0D4BQJ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/9G/N60F4D2HXHBX4BT2TRXGI9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/9K/9PTCA3CSJUDQ68NRTD1F4D.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/Q5/7C4FC3E0EFZN2AQ928BFJY.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/ZS/BW28PMB1EE8S7VYU1VLDYX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/4Q/LQXY8DP02DQ0TSLQUN4HOB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/B4/9Q7IDMXHLXCMYM55CNP264.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/D2/80FAZPJYRE63LN6ZS3IUZC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/BF/OQK0C9E4A694U71FL36DSN.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/JD/BP0TXIGPVBEPB22ZZHRZI5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/PG/U55UMAU42BP52SL685NFLP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/QG/UUC9F0213SO3GX47S02PUO.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/RE/P6ZAVYZAVC1H2HPN2WK8L3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/TF/0VIL4Y2R5CUQVHOLEAV6O9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/Z5/U7NAZW4A4TY3JJB4UUKGBQ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/2U/OF5AM6X2F4JC8FTBHRE6JV.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/37/SZGHRPVMGO3RI3KVUILVJE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/9F/SI6B4LILJFP5TCQ9WWWAVW.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/BA/8I6W3H23T8FENCJ66X3PN8.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/HX/E9AHFB60D58562PF13WL37.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/NU/KJ8OLQ3LG24677B7HF2O2L.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/QH/B36ENTCHTMP0XPDW0OHUC1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/SK/EI2RA53CCT0VPS3M4PWYFC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/TN/UTTN8SMC15XN6K8YQHECGX.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/X2/0WY511Q1PVNB1QH8SUQXVK.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/0N/E4WHXQD0QO3FDVZSDNOPIQ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/6J/4KOWFGHPWECEMGAAFSG0XE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/90/WP1RD1ZXIURLOTVXQZZ05J.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/9S/WWWR71D007OJSZOBG2C57P.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/EW/HM84MXZUT4DYKE52V2N17Q.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/FM/1Y2SRJD5B5V9GBP7569Q01.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/JP/NCFKVHFR3H8OPWUJS7HJFI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/QO/6C8A8JTH2IU4UQ6NC8GIUB.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/UM/Y7UREX8YFJ3EJFI2N09M7B.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/EL/ETMHA8MS24Y49T7W5VKV4S.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/FD/LVKYI3YCFXBAWS8BJ1NZQI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/FF/B8T9K8A6NY2JM1YNO2GI3X.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/IZ/09FGT5NTF0MZXGZ0QBNS6N.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/M2/MFM2AURZICPA13K261WRFW.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/QU/19AIY84HEGMNVLJ0G4RLH6.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/SR/TUAT08TE7A9YP4PK94Q65Z.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/UV/2KLOG8LS93HC7Q6J6OI13A.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/06/4KGZWXQP403TLN81410P5A.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/A5/QI1JFCAIYUKECPO3RCVRTP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/A6/F0WALR62RP72H23MKR3DT3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/HL/T4FOBSNIE58EG83F9D0D9R.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_FirstPerson/6/5W/RBOI17UF6QBCSY89FJC93Z.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Horror/3/BN/ESUN6GFJOKGBEYUAHLNKYE.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/9R/V9QEL88TV09SZAWW99N3LI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/6T/L09HPSKREUMVN7M5R7OYXQ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/95/ZDNO1XSIFEJ98949MGPPX7.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/4/W1/QW5BZZ3WBIYLSF0X89E5TJ.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/5/H0/EOC1HIUCL2RRAHX5N8EU6S.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/5/XN/NA2XOPM37Y6LF3CRN9ZYPD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/BK/Y0F3H3YC7N4I1JTVUZ2MD3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/AJ/NFH47GDR8QY6UQ7OEGF2TH.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/JJ/H7FF5AS1SH9EK9MXSPXL6K.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/Lvl_Shooter/F/4X/EMP1GZNAS85GXDWGO2CWFN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Back_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Front_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Front_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_03.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Front_03.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Left_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Left_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Death/MM_Death_Right_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Death/MM_Death_Right_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Aim/AO_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Aim/AO_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CU.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Aim/MF_Pistol_Idle_ADS_AO_CD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Left.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jog/MF_Pistol_Jog_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Fall_Loop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Fall_Loop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_RecoveryAdditive.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_RecoveryAdditive.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Jump/MM_Pistol_Jump_Start.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MF_Pistol_Idle_ADS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MF_Pistol_Idle_ADS.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_DryFire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MM_Pistol_DryFire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Equip.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MM_Pistol_Equip.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire_Montage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Reload.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/MM_Pistol_Reload.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Pistol/Walk/MF_Pistol_Walk_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/AIM/AO_Rifle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Back_Med_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Back_Med_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Hvy_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Hvy_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_03.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_03.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_04.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Lgt_04.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/HitReact/MM_HitReact_Front_Med_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Left.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jog/MF_Rifle_Jog_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Apex.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Apex.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Land.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Land.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Loop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Fall_Loop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_RecoveryAdditive.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_RecoveryAdditive.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start_Loop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Jump/MM_Rifle_Jump_Start_Loop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/MF_Rifle_Idle_ADS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/MF_Rifle_Idle_ADS.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_DryFire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/MM_Rifle_DryFire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Equip.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/MM_Rifle_Equip.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Fire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/MM_Rifle_Fire.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/MM_Rifle_Reload.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/MM_Rifle_Reload.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Attack/MM_ChargedAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Dash.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_WallJump.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Jump/MM_WallJump.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Materials/M_Mannequin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Materials/Manny/MI_Manny_02_New.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Meshes/SK_Mannequin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Rigs/PA_Mannequin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MRA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Anims/ABP_FP_Copy.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/CtrlRig_FPWarp.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/BP_FirstPersonPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Lvl_FirstPerson.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/MI_FirstPersonColorway.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/FirstPerson/MI_FirstPersonColorway.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Actions/IA_Jump.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Actions/IA_Look.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Actions/IA_MouseLook.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Actions/IA_Move.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/IMC_Default.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/IMC_MouseLook.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Touch/BPI_TouchInterface.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Touch/UI_Thumbstick.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/Input/Touch/UI_Thumbstick.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Input/Touch/UI_TouchSimple.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Door/BP_DoorFrame.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Door/Meshes/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Door/Meshes/SM_Door.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Corner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Door/Meshes/SM_DoorFrame_Corner.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Door/Meshes/SM_DoorFrame_Edge.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/Door/Meshes/SM_DoorFrame_Edge.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/MI_GlowNT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_SimpleGlow.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Interactable/JumpPad/BP_JumpPad.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Interactable/Target/BP_WobbleTarget.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MF_ProcGrid.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MI_DefaultColorway.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MI_DefaultColorway.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MI_PrototypeGrid_Gray.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MI_PrototypeGrid_Gray_02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_Round.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MI_PrototypeGrid_Gray_Round.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/MI_PrototypeGrid_TopDark.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/M_FlatCol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Materials/M_FlatCol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_ChamferCube.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Cube.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_Cube.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Plane.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_Plane.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_QuarterCylinderOuter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_QuarterCylinderOuter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Placeables/Meshes/SM_Ramp.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/BP_HorrorCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/BP_HorrorGameMode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/BP_HorrorPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/BP_HorrorPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/Materials/LF_Flicker.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/Materials/MF_LightFlicker.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/Materials/MF_LightFlicker.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/Materials/MI_FlickeringLight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Assets/Materials/MI_FlickeringLight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/Materials/M_DustMote.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/Materials/M_Light.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Assets/NS_DustMote.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Blueprints/Light/Light.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/Blueprints/Light/Light.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Input/IA_Sprint.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Input/IMC_Horror.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/Lvl_Horror.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/UI/M_FillBackground.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Horror/UI/M_FillBackground.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Horror/UI/UI_Horror.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/ABP_TP_Pistol.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/ABP_TP_Rifle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/Ctrl_HandAdjusment.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/Ctrl_HandAdjusment.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/Ctrl_HandAdjusment_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/Ctrl_HandAdjusment_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Anims/FP_Rifle_Shoot_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Anims/FP_Rifle_Shoot_Montage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/BP_ShooterAIController.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/BP_ShooterNPC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/BP_ShooterNPCSpawner.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/EQS_FindRoamLocation.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/EQS_FindSnipingLocation.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/ST_Shooter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/AI/ST_Shooter_ShootAtTarget.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/BP_ShooterGameMode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/BP_ShooterPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/BP_ShooterPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/BP_ShooterPickup.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/BP_ShooterPickup.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/BP_ShooterWeaponBase.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/DT_WeaponData.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterGrenadeExplosion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterGrenadeExplosion.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectile_Bullet.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectile_Bullet.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectile_Grenade.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Projectiles/BP_ShooterProjectile_Grenade.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/Materials/M_Explosion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Projectiles/Materials/M_Explosion.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/Meshes/SM_FoamBullet.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Projectiles/Meshes/SM_FoamBullet.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_GrenadeLauncher.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Pistol.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/Variant_Shooter/Blueprints/Pickups/Weapons/BP_ShooterWeapon_Rifle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Input/Actions/IA_Shoot.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Input/Actions/IA_SwapWeapon.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Input/BPI_Touch_Shooter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Input/IMC_Weapons.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Input/UI_TouchInterface_Shooter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/Lvl_Shooter.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/UI/M_BulletCounter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/UI/UI_Shooter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Variant_Shooter/UI/UI_ShooterBulletCounter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Audio/FirstPersonTemplateWeaponFire02.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Audio/FirstPersonTemplateWeaponFire02.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Materials/M_GrenadeLauncher.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Materials/M_ProjectileBullet.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Materials/M_ProjectileBullet.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Meshes/FirstPersonProjectileMesh.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Meshes/PA_GrenadeLauncher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Meshes/PA_GrenadeLauncher.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Meshes/SKM_GrenadeLauncher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Meshes/SKM_GrenadeLauncher.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Meshes/SK_GrenadeLauncher.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/GrenadeLauncher/Meshes/SK_GrenadeLauncher.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Textures/T_FPGun_M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/GrenadeLauncher/Textures/T_FPGun_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Meshes/PA_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Meshes/PA_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Meshes/SKM_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Meshes/SKM_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Meshes/SK_Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Pistol/Meshes/SK_Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Meshes/SM_Pistol.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Textures/T_Pistol_AORM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Textures/T_Pistol_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Textures/T_Pistol_Masks.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Pistol/Textures/T_Pistol_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Materials/M_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Materials/M_Rifle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Materials/M_Weapon.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Meshes/PA_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Meshes/PA_Rifle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Meshes/SKM_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Meshes/SKM_Rifle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Meshes/SK_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Weapons/Rifle/Meshes/SK_Rifle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Meshes/SM_Rifle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Textures/T_Rifle_BC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/Rifle/Textures/T_Rifle_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/56/I0F38RE5S8MZ8PNQ5GDDSS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/9C/F5Z2JNQMT747Y7QES5KOP7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/QF/0MZRSMWGNM91UYLLVJ3D8E.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2T/XLTJQ7V46UNMQF707MQDQK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/TT/AN7EDCE3WNBXY7C6MLPGQH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WL/M7MJFQ0T76JWU6F1Z7YH8J.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OC/XS0DUOELE7HJY3F9XZSBNV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/8B/S2VB6OCHYGRYWAD0QGDM9H.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/6J/NUEDVP0K274K8FKJ6Y0WEX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8V/Q896X99E5DMTT521YEXM9A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/IJ/E7WQWO4MJ84GWAX8H4UR84.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TI/UOUH4EXJHIGJNF2D0Y7CPX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6I/29E05UQXOAGP6TCP5CN0BQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HV/3VH3D4CLM38OC4F8ICXDVQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/2H/HS4VI3UZJT1LNKM6HC7PL2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/I3/0VVXG3S0B4RN6QSHFSGKGX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/W2/920TYXDM12T8GKK1E0M892.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/AC/RFQ7INIHB1Q1JWY7DWYQ5Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/LJ/OQX9YN9UJ9NNRX6ERJ3PPZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U0/N7D7PHGDI2A4EOLD58TA92.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/0I/0PXPLZ76IWADZO9D6J4VWA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/GO/765U52T3ZSF8D2MPGLVRR0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IP/FTEAYZDQR9M2KDS0TEPHA0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/LE/5ZDRK6QRB1CF1JSS3HJKPV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/R5/8FN93FIP5FEZUI0RECK61K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/P7/9DOH3BZKA2A8C7ZTDWILWC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/0/9N/XNV375O8KPWILSKVGEFNR7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/0/H4/6XP4MN111ML9O0QCEYRKH2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/0/UL/NBOXI91CXDV03LG1XB034Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/1/BG/SUO39IID039W2OIT4A9WHD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/1/IF/NN5BW9XQMA6PPAIDJ7SMAQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/1/XK/00H4DFA6S89FDUNS6VXWUB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/64/I7XEQFHVL5DIB1CJZBSBRU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/6N/K64CJI6KHKILLZWQSQ7IAN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/9C/1NTY6MECNAM0L7QUTBTWTC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/B7/QY8ULQWFS49XORXUUJYHBV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/JU/S4QLU8WK2BN4J46DP9RPNN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/LP/X22M42YXL5MXZCB4XVRYG9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/2/PD/B1KLFOWOLE3HXLMQBBLOPE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/6N/OFZ2R5U7SYT7F3CB3XEANE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/8G/ZPBH7EIP0LIE3IEE3X5I9P.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/AD/4ANYKIAZ7LHW90QHRA8XXY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/GK/3ZJBQHCJ1O8II9Z86X5JZ8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/HE/OG8UP7YLDKLJGZ6KZI41ZV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/7/BZ/CSJ90GLCGE334SH5J3TGPV.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/JM/JB5K424E7XL6HOHHKAGZ44.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/L5/T7HZAJOHJ8Z18VN4WJBHUF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/D/S7/F4GSJXREKMM807Z2DPAL4X.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/PZ/4LJ5CNYK9QNGK7I6CKWDDP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/QB/9KU2R8SEQ5NZF4EGCALVVD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/U3/8G5Q2ACBQL028FQW3TNA83.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/3/XH/ZI2O8JLKELBZHG2VGWB2BY.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/DB/0Q5ACKGLZTU99U4WMK0VW1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/1N/6ZCWCW0P2JN8XT3L45YXLS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/B/YH/H19RB5U2XJ5USOH93DVCSB.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/3O/7P5L1R6H2S9W36WVJFO7C2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/CU/3X5T5KEXZ9AFNDPZO353I4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/LW/63SRQSBPGN1O19F38FOJJI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/YO/H0MBGL3CLVB8BC3LTOTEJZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/4/YQ/U25QS32O4D60A2JP4UZWAL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/9G/8PH3B28FAWBUO5LZGIKBPY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/RE/41ING9B1UUSXVFVQAR67TW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/TR/3KZ317G6QAISBA8KVHXNID.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/V8/ELVBBJP6FQBB46EOR16SNV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/5/XB/P3903AEGCCLEKH4X762BHW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/6/2Q/U1Q6LWD0LO8TBYP8XAG1HZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/6/BR/8VZFJT0FO7JL9XP9AKBVU0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/6/FN/P6DHQRHWG5A4ANBB6IVE9X.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/6/NR/EKR8BAGTREZL6130JK27PM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/6/ST/OY6MMZK8D42GBJO5FHWZLC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/7/H6/HH9TF15E2MP5ZWX3UGV7P3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/8/4F/T21R05MMSCET8BZ2EG6SWS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/8/9N/KESGN0131EL35XN79RTO8S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/8/GM/VJPIOZG5M5HV9SMJQGRMD7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/8/VA/9SHJ6ONF0NO9EQH3EUOZ67.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/8K/OGFT07X88T4YB1XZANAEWK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/8P/HXB7QO5CUITP877I1SNGVT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/DJ/PDAUG5BCKDEAJ2FGTRYQW7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/J6/KXD20TVKFIAWADS9P5K6T3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/L1/8PH18ZESFPZR6AFQNZZJHY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/NW/3TP5SO08C78O361MV635WZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/PO/Z5JQ3715U90GC78LF8YVZE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/PQ/FUO1PC0ZE1T7HGD5M7WH3M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/9/SQ/MI31B44UZ0O83WZ92D8YYJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/A/4E/Z2RVP4X49TRJ8PV1TG7F99.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/A/A0/0ZNCGT5BJTSIS7GE8BBTBR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/A/RE/2051XEA4LGIN555FZ9R41D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/A/TT/PEKH451HOOMAWN4TUYPAXE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/A/WM/PVV6DOCSPK8FAIAI96F846.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/2Z/V55SREFRW1QNPJ6CMEYPID.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/CQ/T05AOFB8X3Y7RPQEZ703H3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/DR/JY8SVZB41D6BLQJZT15DEL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/E5/HXHMPRE5K9TQ8IMYNUFT0K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/FY/LE2HVZRIWYTD4D2LOE75Z7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/JT/XP386E2S52UV4Y1UWONFOG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/LN/PZBDBOZ4P0GSOF0G4UQO24.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/B/U8/WEFKJYFRD6NOQWK1CYE8MC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/C/6B/R2H3DQMJE0N712J72DUGZM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/C/F2/KD7ZDAX5WSTHYZHAIHIVOE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/C/VN/3X14DSC2WBO2DN31WFFFEC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/D/G7/X9LYXH5KHAQDRL4H74W1CV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/D/GK/ZY5JAZ69GEG4DXEH3ABYGY.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Horror/5/G3/QNOQDGVK26NR45REHDO4HO.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/D/XI/NKDB0RUCK5SBQ97LIA6W5N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/D/ZA/2D8B8Y2TMBHSQR4C5FUHOM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/E/7J/9BJEHFBRWNQ4Y19IW2AX89.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/E/ID/VDROBGOSK9AYG8F03X20KO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/E/IM/098ZZWGR4KV9W9OSXMLS3F.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/E/OZ/EWBP9T0DZVQI1I0D108ARK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Horror/Lvl_Horror/F/30/Q30QC3KM9PIKZM4AGT7MT8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/0M/2W7A0TQFW2RQ2JSGI4EAAU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/3W/4OWTQGAFHRSSWPHLF17GDA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/AF/ZF7MEEQXMQ4L1ZLTG98CF2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/F4/YDO8QO1YCWW4FK9C6JXB13.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/42/ZACD4CDZB2OKJA6UXMTQ9I.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/GO/V9XAM3GMJV136EQQRF4AX6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/LV/HXE36SI8ZSRNTVGI85VLHA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/NI/MG4LD5RUV0OUVPW5ILC24A.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/LX/P070M0RBHZTPE6C9ZKWX6M.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/SB/8XCGDZOPH9K2GTXGM0NZ9Z.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/0/Z7/F9FGM7QMM5OJ69Q0FQVPI2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/A/EY/GUD3BABBLSVI5O5SRFALE5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/C4/DK472FPXL56BWBL5GTSRYC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/E0/YOQ2IEWKHEFVIYLKEOACFS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/J3/5P2KEO4NI8FORQR8QBNI47.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/TR/H93R1S6H13LSMPCN0XLH1U.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/IN/FC3C9754YRR0MPPVEVKBBG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/W6/NU6H0B1N4KZ39T0WFGMC85.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/1/X5/OJ9O1Z0V1RA2I60X0E1MCB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/21/OPIKYSZSUNYQ6FCTTCKNH2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/2I/LP90LR7MNBZK6BK6WBYWE0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/3S/QP7RC5S7TEGQTEGEPKYS7S.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/PC/V7MB2PKLN9XG56UNWHLM4Y.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/47/EPSQHQIUJ0PMGCKIRS4P3D.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/IV/9FWMGVLAALUT87QQN8WR1T.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/4R/OLEQXEVNQITH993RA1K72C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/71/YW8CI30OGK3D0E0UFPW345.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/A7/N2VQC81615YBX5QQ4DD1DH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/EL/ZCMASU9FA69X4FRWIOZXLF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/B7/TD8MC703NYP6TN0U6PHTLL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/TF/5V1R4R14ALRKBVE4EB3IE5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/VV/8T4IS7U0HG2KEYF3554ZMT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/AA/J7268JV2GHEPGBXC1NCQQW.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/2/XB/NXHNT4IWLYE5N4Q5JWHKQT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/D1/BFO7PDRG6PWTEPAEPCNPD3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/RQ/6SJW23DN1LTU8BRO8AAM4W.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/EF/ONB59WKPJIJQFIU8TQF5HB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/FK/B8JHTMJJT6RAJNB20BVLHG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/G0/CNMKSON899NRH3LSKRTO8B.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/T0/8Z471NVS94FY4T2K0O5O98.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/KQ/U2GB5PAQ7IKHBWZX9B3E5C.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/JT/KCXI3FQK9PZHTV485LVK69.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/L4/X2RT7LNEHCGGGU1MI95AT3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/LP/VOOY55N5QBASMJ3MB5FBF8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/BN/QL1JLT0BR6XXHVN7R83B9Q.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/3/NR/2FFVMWVCFXP8BHOTFV9ZYZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/3S/AY58X4SHLU19PXGLVCJLCU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/4A/VTCLSHIX2YXQ8FSREY3I5O.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/UG/ZBAZECDR75G2R111RHZNLQ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/74/E8REIFZ2JXZGKXPAG377ZI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/8R/4KE7PNR39XBST18TQVKQD2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/CB/MKHCMIGW9MTCBYZ2ENCHZI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/J2/INIO2I7E5UNIS4QTAHXC8M.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/F9/IYHQGBLXUFEQ4FSL3LGMKP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/FK/N0I7ZGW3RHRDWQJANEWT2R.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/QR/Y2VZNQLMIRRT4AF72G5PJY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/4/X8/2YV05QMX7SE54V3NZM2SUR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/1C/A3UKEQ70E1RMOB72D74WHO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/4N/8930XQ2F5PXX5UP7J3NZWP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/82/3FXC2P85LEFD9UWU50YMVL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/EX/SPBUY5TP7JPB25VIYJCI4N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/GY/1OQ2XTVN6TLOZQR3TZZHWO.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/5/LN/1WABR9UCHBTGU0UNHU4WBV.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/MJ/6PQD4KP1RTD6RK0X2WYDRD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/PY/CZVJVA9FVPJCDZW8N0DY0E.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/QI/EVFNMBE7BZTBXFSLA3MNGI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/RU/F7I0JH45UMMDWQKJ3B0IES.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/UG/2IAK7M3SWBNKRNSUQDDLRF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/5/UG/PX4LZ68G18XX9UTSXQAF8R.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/3S/0XN7P6FBRA5N322FUVYW42.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/81/TPBZUMZA7ZAO0NAMA5WZE6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/8N/MFMXWD65LGY7YKQ3QKC7IB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/EG/ML1BFF59ATFJJFFG0FBMPJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/HK/WBN373R14SBX6NJ2K8QXXG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/O5/OLBOXUX6TC6V7PUSAR6TVA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/JX/HBTUH10XOH0KFVBAHOIL2X.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/6/UV/ITSLYO85KH2FWAZPPGLCO2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/0F/CLSM7G0KP9S3SKWG7BP65A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/4Q/SE3163RHB7C0OIJ715G8XJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/7F/JS7TSR3L8BG7QAMXGPE8KZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/00/Q8SBQTCU3VG82JI61K816H.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/8P/4RJMNHEYLO9LBSKTWAP3K0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/A4/GM34X4MV7JKOEVMT9BD6DK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/ES/AZ00WJD36GHTQFGAA3M640.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/FY/DZULLSRWN7CLU58WEZBQBD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/KP/B81I90CTAS6NBI5BO0PC1U.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/QR/5L81GGT6LFA1SR1E1HOHAF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/JQ/NM8BR453G54ZUZGB053U7I.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/7/TM/IKFTKD1ZP1KLUJC4DQ8KVE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/2A/XHGPJ0ECCIW2GOB3K8SHKN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/Y5/IJCVIFPOFN18CQ1JTJ547Y.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/3N/EBHCOJGXSI7GEKQVASGUTT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/XW/ABEEN19NXXE3Z2EH946V79.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/5D/WSN91CNHUAVJ5XDYC4FAC4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/8M/VITU9EX4VWF006RSKKKE8H.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/8V/DETGNY7T4LFNIO9AW8AJ2Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/E4/SHIWMFW5LS6BMG8YLQF90P.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/J2/NJSICP75S1AAG0RX0WWEV8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/J2/U4CS9OQDOIFNQMIS11ZING.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/PA/GKTBLM66BNQLPZV4E8XZL2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/SH/AIAQJXTFOA1VCWQOW2E4RR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/8/U0/X7YRBKY2NXUICG2T2L9HFS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/11/S85EET3C30AER5UMTBB972.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/HU/E8VC329ID4G1ADLVGFNTWN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/68/5UFLOC7TYTREZUJD4TVN5J.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/BT/FAM5PRC31WFPWCNMS3WT33.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/B4/XH06CNJM9F5JBUW37K8ZGU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/CD/WSMTLK2F2LHYHZ1ODL6U8I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/CV/UORV0S2ARLO4XJO8GJVJYP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/EA/IFDP9Q20ZABLKDWU3JG0XI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/0/BU/K1VL42QLYY5TCHHS8B7ZOA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/EF/TX8KPTY73QLOGBRUT0K7QO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/EY/FC7NMRYAN0Y77NPAC5S5K2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/6/67/5WU9KF2UYYJDWCKD20UVH7.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/GW/JEA64HFPIFEUWSJWGTPHOD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/I2/5ND7QZ3YOE1FN57S92PCC6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/KF/E8ZVIKZWKZVYOPCOJLJJDC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/WV/ZY4S8S97J9PWZG0DTM9SDF.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/OQ/WIWCALTDEKEGJB0TLM45SL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/P2/ZPU2HDJ9PZWQ718JH95FB7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/RL/Z64VCCBBIKFGKMJSXMOLRD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/W5/A57ZWTS4CY7L26IYMDR052.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/S7/MS6LGAZB30JAO6LZXG9NCQ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/9J/OSNKBV7CXFWPGXH9HRDAAG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/T1/Y5TFOGZA2J90AXOJ1X2SI3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/EF/EXGKSMKGT73P2ZU1JHWQYY.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/WI/M7RG491UCWT2BKDWW40DQ1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/9/WM/11IA1T7W705Z0XRZR2F3RN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/B/HB/DND4V324A31KASK5TEHL87.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/68/K0MN1M8CMOSGHYTDTYOTRA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/HE/VU8B6ST3EIXVOIQ7RDLJXD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/HT/64QNI431ITASWGXQVEP9GZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/5Y/W6JV37NE2UQ9L7N2P3Q6L7.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/KN/QKE5ONGFK6KBAWKGOX5EFP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/5R/BOA5A37C5L84NPAIUQ06A4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/O1/JPCT6UKOQUR6ZBFSX0R3YW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/OG/ID8G9B27E6SMDDH5XN7JAE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/E/0J/2SCAM2KFIRR6ET6QGQR9IH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/OR/8M18FS2XGZVEKEZCD9M9G5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/PS/2HHOJ2I7VB009PVNZSASSP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/RB/DH88LLLXULXZVJKUSKUY65.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/WS/OD81AP87WA1TF62223ZRF1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/3/HE/0J5JLO2K26A7B9KH8LF9EZ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/A/WY/LVFUG6K1BKN13XE4KQQ40K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/B/D9/Z57RGITVPW1E9TYTA44LWH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/B/K6/H3CZPHI7O0HFA0DHKWFFB1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/1/ER/1AYTDW6DY2X5VO8H8614CD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/B/NY/ZXIJINPFFQNCKX34HPQEDZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/B/T9/WTK0WZ7YP778QRTNM2ASIH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/D/TN/280NIO1PSAUH4ZSD8ZZZ7N.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/B/Y2/NO03Q09VKP8EMBQAGCK9MU.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/C/NF/RHEHS9AQU91PYU1J5V295F.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/C/7O/0L9RYRRBQG7VEGHR8Q98BD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/KZ/LE86RM8966MJ8DQ4A1EWKA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/C/C3/Q48R0F7C7BXL14R1P7QC22.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/C/DO/HZ34Q26I12KNKJVQEF18EM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/C/EC/KA71OOH03YKI068HDGL3VB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/C/SI/8DCD2UP9VNXNP2N5WMXNUQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/D/5O/XGIEUX13MQCOU125YK3X2C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/D/9H/36KF3AMIT683JEIMNB4XAA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/8/5T/GKZAOKPLE7C4OW6HNGWGV3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/D/G8/7GP7X2YYJWIGC7PC3AVPXQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/D/HW/I1794TW7FPLR5XAV3TW7L6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/44/H4Q0ZTK0XODVRU6OS62V6B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/4V/C1AI26EB3D2ORY2QX3LI4V.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/2/U8/C33Z9SEDBBKFI0CUTKXO5M.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/8K/GQDG92R9FRUQLYSQOFAMKI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/99/L0HWLRDISQ4RX3LTBZGL2Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/AG/V9HGVOTOBYIE10UPD6CPRU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/CY/PYU8OGSFL0C5HOKJTOQJ18.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/OV/WP567OU0GDSNI7DV6OHSHL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/PP/0FS30TRW5307EXU14BXFWH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/RC/YWG76NICZRGBLF21JJXNPV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/E/TB/LAHFA52TW10239NQOCP5VJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/7/69/ECUD2NU4VDIPC37MIY6V9X.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/F/1S/0E5W9QWRKKYALBDU8J7OJ7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Variant_Shooter/Lvl_Shooter/F/3Q/D5C015VFBWHJPBUNK6LYQZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/Lvl_Shooter/9/JD/X23070KWUJYJIDUC54S02V.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/E5/IOQOGT9AJYYZQ06SOLO6RW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Horror/Lvl_Horror/E/4S/MTC0EUCY5X4PPSGG0YEW81.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/1/YM/YQOYN83O0AY6EIUCED607T.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/3/2W/ZNRQ5WHS64UROQO8IYBQ8K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/3/GX/9T107TEODWHN5T1WPYBUQ7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/5/VB/10P3UZA0QNYFH1YBTDGMZ1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/6/CO/XIQDOOHSXSPVKBOZEQMPYA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/A/U2/YWYC9H20DSG3PUCQB8WBZY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/A/X7/68F5K6E8SAVZAFAA6X809G.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/C/EV/FYOQKZQDM3AYZEKRQRNWNL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/D/H2/NB2B3NDNJ5EHLF4RBHMD8K.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Variant_Shooter/Lvl_Shooter/E/9R/OEDP71GC0TR19P70FPV3QX.uasset" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,24 +918,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Uproject.ProjectTenQKCamp.executor": "Run",
-    "git-widget-placeholder": "feat/restructure-directory",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Uproject.ProjectTenQKCamp.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/restructure-directory&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLinkOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProjectTenQKCamp" type="Uproject" factoryName="rider.uproject">
       <configuration_1 setup="1">
@@ -143,6 +1025,7 @@
       <workItem from="1767250923069" duration="1145000" />
       <workItem from="1767253370388" duration="2284000" />
       <workItem from="1767256264853" duration="307000" />
+      <workItem from="1767258154717" duration="1663000" />
     </task>
     <task id="LOCAL-00001" summary="feat:建库，初始Commit">
       <option name="closed" value="true" />
