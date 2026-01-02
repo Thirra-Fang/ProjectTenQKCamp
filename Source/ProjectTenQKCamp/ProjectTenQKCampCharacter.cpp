@@ -20,7 +20,7 @@ AProjectTenQKCampCharacter::AProjectTenQKCampCharacter()
 
 	FirstPersonMesh->SetupAttachment(GetMesh());
 	FirstPersonMesh->SetOnlyOwnerSee(true);
-	FirstPersonMesh->FirstPersonPrimitiveType = EFirstPersonPrimitiveType::FirstPerson;
+	FirstPersonMesh->FirstPersonPrimitiveType = EFirstPersonPrimitiveType::FirstPerson; 
 	FirstPersonMesh->SetCollisionProfileName(FName("NoCollision"));
 
 	// Create the Camera Component	
