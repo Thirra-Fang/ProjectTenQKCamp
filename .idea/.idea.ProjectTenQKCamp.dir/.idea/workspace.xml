@@ -8,72 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc03895-b4c4-427e-a791-6243f6889356" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Maps/Lvl_FirstPerson.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Maps/TestLevel_1.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/0/CL/H7IDVQWC5GW2ARHDNI28NX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/0/HZ/YIMMZI7FM93JMHDL0O04KV.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/0/R5/2OXOX3S3T1FK59MVGH09RQ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/1/EI/A8JAJC7WUL0RPEB5FRJHTX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/1/G0/IO9EW4FN1I4UJ2U4KZE1R3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/1/R3/0TN0SZW6VSHA0844PHN60C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/2/6E/LYQNT8ISP234EY1OPVMHTN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/2/M9/C1TG2PM85IUHKQP70YGCM2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/3/AD/H8FJ68QDQT0PNZVKCOUYUT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/3/AT/WGXNHA7YAQTADB83BFELJG.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/3/NS/QVIMZLVI95V5VOUQLWILXB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/3/RF/EYEEW73L9253VSNHIXKAPR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/3/S4/DKPRTLK49VBGL5WRTYC0IF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/1Y/5PKPARCATPFILBE4LOTGH5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/6T/3A2K8YBQ0ICEU55IGKIHVB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/B0/46A2EYNZRVQ3KX2EO2IOJ2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/K3/YNQJDGACKICQDL6N95GOTB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/OC/SN8NKI5KXXHM81EIQSIJ9Z.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/RQ/5ED4EJDNQ7AIIXKTKI6ECC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/4/UY/7KL7H9NSSOGDRTKK4OC44X.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/5/J0/99FT9AC54VNIPGL4MFZDIQ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/5/JV/5BSWCXQDN5R8WBYT897ZG6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/5/RE/S7FWL7Z68H3ZM9ATML7UPC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/6/5A/VQKEXEQWUH8X5CUYRHPH6I.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/6/9F/8D3C10FDWY2TOVCGT718DS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/6/NC/I0P0MY60ZB6GKIO5QS8ASJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/6/VR/0DVN17L0D8BHUM7OHNL5YJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/7/26/RD2QM99WROY9WA0FTG1NOA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/7/A6/U53195RYJPE359I7PVQAWV.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/7/AI/NPPNT96RRWXU56F5XSF9DO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/7/K2/8Q7BDSDZN3RT1U83WLHDAB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/7/R6/LLL5ZAA2325UTE5S3MXKVR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/8/EN/ROFWF1SXI2IXNT9FGE2UFW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/8/H3/F26TX1GMVUNFQY7M4JY2HR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/8/K7/P98YWG8PKGVHWDG4ZO5U0A.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/8/KH/IGZ8TKR64P9T2FTB5ZSRR1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/AO/N1J7YY31KHT8LCUBIPF06N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/CA/S1QA4YR4LEAB8F5EDZI1FI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/PJ/MC7VJGN8IJKZC653N4CO39.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/PW/8YTK9JWLVH34EXVJT8PIRS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/QI/2QW6OKT7ZC29UPP0P3CHB6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/WD/5GVGIUKGIREK3LGOQR2IVJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/9/XD/5PLOC73CCXNGZTWRLKCEPC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/3E/V7CIWTAKANWEDR8UVRNWQ4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/9P/S585F9014GRMMN7U4SQG2M.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/A4/9IHTAU2DUQ7OX1S56YYKCX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/H0/0VXTANQF6E75YZC1V7905K.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/HZ/VXWTTVYZBKDF9LRJE0FN50.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/KE/WB1H0KGBI4SONMJESVYBT5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/U4/OGM9NM0PIOHNUGDX5M7F7J.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/A/YX/KSPM3RZZAZLMURG3YXTM7X.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/B/5K/H1ZRCVZOG0R1XQ8TOI6ZE0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/B/KN/WLNBVA0PLPS1B1GZ2R2WPE.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/B/VP/43OYL4E77H8JEQME0GFO4K.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/C/7N/FY6HHYPB7LYSYRIHX79WD0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/C/GR/47CY1HNGHU58DN8VFXDHGM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/D/WT/01FWG0GD2DTB9QDM4IDTFL.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/D/ZV/DQNAWE22LMPNFSS7R4YJQR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/E/67/2P2T1SDTECD622CITSSBWR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/E/E4/REWT7OGDWIGTQKCDFPLHRK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/E/ML/WARDDXXR348762KZTVR5HB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/E/W7/AYLZWOQFI93KXY3K04USRE.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ProjectTenQKCamp/Maps/TestLevel_1/E/Z9/TG4J02R0PBLHRS10TG0987.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/ProjectTenQKCamp/Maps/TestLevel_1/8/3J/9W689MUVCT4O1XB92D9HFC.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/TestFPS/BP_TestFPSCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/ProjectTenQKCamp/Core/GameModes/TestFPS/BP_TestFPSGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ProjectTenQKCamp/GameModes/TestFPS/TestFPSGameModeBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ProjectTenQKCamp/GameModes/TestFPS/TestFPSGameModeBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectTenQKCamp.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/BP_ShooterAIController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/BP_ShooterAIController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/BP_ShooterNPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/BP_ShooterNPC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/EQS_FindRoamLocation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/EQS_FindRoamLocation.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/EQS_FindSnipingLocation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/EQS_FindSnipingLocation.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/ST_Shooter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/ST_Shooter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/AI/ShooterNPC/ST_Shooter_ShootAtTarget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Core/GameModes/Shooter/AI/ShooterNPC/ST_Shooter_ShootAtTarget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPersonTemplate/Placeables/Interactables/BP_Spawner_ShooterNPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonTemplate/Placeables/Interactables/BP_Spawner_ShooterNPC.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +58,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;Uproject.ProjectTenQKCamp.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feat/restructure-directory&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/first-person-shoot&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -212,6 +160,7 @@
       <workItem from="1767256264853" duration="307000" />
       <workItem from="1767258154717" duration="2502000" />
       <workItem from="1767334583927" duration="3933000" />
+      <workItem from="1767610808289" duration="5002000" />
     </task>
     <task id="LOCAL-00001" summary="feat:建库，初始Commit">
       <option name="closed" value="true" />
@@ -229,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767263012210</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="refactor:重构Content基本完成">
+      <option name="closed" value="true" />
+      <created>1767433980292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767433980292</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +209,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat:建库，初始Commit" />
     <MESSAGE value="refactor:整理项目Content结构，使之更符合规范（部分整理暂存1）&#10;&#10;-创建项目顶级目录，并将所有模板预设资源移至目录内并修复重定向&#10;-创建Maps目录，将所有Level文件移动并修复重定向&#10;-创建Core目录，将GameModes和Input文件夹移动并修复重定向&#10;-将Level_Prototype文件夹更名为Placeables并修复重定向&#10;-整理部分文件结构，将部分Assets、Meshes、Textures、Materials文件夹中的文件移出并删除" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor:整理项目Content结构，使之更符合规范（部分整理暂存1）&#10;&#10;-创建项目顶级目录，并将所有模板预设资源移至目录内并修复重定向&#10;-创建Maps目录，将所有Level文件移动并修复重定向&#10;-创建Core目录，将GameModes和Input文件夹移动并修复重定向&#10;-将Level_Prototype文件夹更名为Placeables并修复重定向&#10;-整理部分文件结构，将部分Assets、Meshes、Textures、Materials文件夹中的文件移出并删除" />
+    <MESSAGE value="refactor:重构Content基本完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor:重构Content基本完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
