@@ -30,7 +30,11 @@ public class ProjectTenQKCamp : ModuleRules
 			"ProjectTenQKCamp/Variant_Shooter",
 			"ProjectTenQKCamp/Variant_Shooter/AI",
 			"ProjectTenQKCamp/Variant_Shooter/UI",
-			"ProjectTenQKCamp/Variant_Shooter/Weapons"
+			"ProjectTenQKCamp/Variant_Shooter/Weapons",
+			"ProjectTenQKCamp/GameModes",
+			"ProjectTenQKCamp/GameModes/TestFPS",
+			"ProjectTenQKCamp/GameModes/TestFPS/AI",
+			"ProjectTenQKCamp/GameModes/TestFPS/AI/Common",
 		});
 
 		// Uncomment if you are using Slate UI
