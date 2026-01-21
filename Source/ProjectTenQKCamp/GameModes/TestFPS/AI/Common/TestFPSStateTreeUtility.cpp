@@ -15,21 +15,12 @@ EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::EnterState(FStateTreeExec
 		// get the instance data
 		FInstanceDataType& InstanceData = Context.GetInstanceData(*this);
 		
-		DrawDebugLine(
-			InstanceData.Character->GetWorld(),
-			InstanceData.Character->GetActorLocation(),
-			InstanceData.Character->GetActorLocation()+500.0f*InstanceData.Character->GetActorForwardVector(),
-			FColor::Red,
-			true,
-			-1.0f,
-			10,
-			5.0f
-		);
 
 		// bind the perception updated delegate on the controller
 		InstanceData.Controller->OnShooterPerceptionUpdated.BindLambda(
 			[WeakContext = Context.MakeWeakExecutionContext()](AActor* SensedActor, const FAIStimulus& Stimulus)
 			{
+				UE_LOG(LogTemp,Error,TEXT("监测发生更新"));
 				// get the instance data inside the lambda
 				const FStateTreeStrongExecutionContext StrongContext = WeakContext.MakeStrongExecutionContext();
 				if (FInstanceDataType* LambdaInstanceData = StrongContext.GetInstanceDataPtr<FInstanceDataType>())
@@ -102,6 +93,7 @@ EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::EnterState(FStateTreeExec
 		InstanceData.Controller->OnShooterPerceptionForgotten.BindLambda(
 			[WeakContext = Context.MakeWeakExecutionContext()](AActor* SensedActor)
 			{
+				UE_LOG(LogTemp,Error,TEXT("监测已遗忘"));
 				// get the instance data inside the lambda
 				const FStateTreeStrongExecutionContext StrongContext = WeakContext.MakeStrongExecutionContext();
 				if (FInstanceDataType* LambdaInstanceData = StrongContext.GetInstanceDataPtr<FInstanceDataType>())
@@ -159,6 +151,64 @@ void FStateTreeTestFPSSenseEnemiesTask::ExitState(FStateTreeExecutionContext& Co
 		InstanceData.Controller->OnShooterPerceptionForgotten.Unbind();
 	}
 }
+
+EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::Tick(FStateTreeExecutionContext& Context,
+	const float DeltaTime) const
+{
+	FInstanceDataType& InstanceData = Context.GetInstanceData(*this);
+	DrawDebugLine(
+			InstanceData.Character->GetWorld(),
+			InstanceData.Character->GetActorLocation(),
+			InstanceData.Character->GetActorLocation()+500.0f*InstanceData.Character->GetActorForwardVector(),
+			FColor::Red,
+			false,
+			-1.0f,
+			10,
+			5.0f
+		);
+	if (InstanceData.bHasTarget)
+	{
+		DrawDebugLine(
+			InstanceData.Character->GetWorld(),
+			InstanceData.Character->GetActorLocation(),
+			InstanceData.TargetActor->GetActorLocation(),
+			FColor::Green,
+			false,
+			-1.0f,
+			10,
+			5.0f
+		);
+	}
+	if (InstanceData.bHasInvestigateLocation)
+	{
+		DrawDebugLine(
+			InstanceData.Character->GetWorld(),
+			InstanceData.Character->GetActorLocation(),
+			InstanceData.InvestigateLocation,
+			FColor::Yellow,
+			false,
+			-1.0f,
+			10,
+			5.0f
+		);
+	}
+	DrawDebugCone(
+		InstanceData.Character->GetWorld(),
+		InstanceData.Character->GetActorLocation(),
+		InstanceData.Character->GetActorForwardVector(),
+		500.0f,
+		FMath::DegreesToRadians(InstanceData.DirectLineOfSightCone),
+		FMath::DegreesToRadians(InstanceData.DirectLineOfSightCone),
+		16,
+		FColor::Red,
+		false,
+		-1.0f,
+		10,
+		1.0f
+		);
+	return EStateTreeRunStatus::Running;
+}
+
 
 #if WITH_EDITOR
 FText FStateTreeTestFPSSenseEnemiesTask::GetDescription(const FGuid& ID, FStateTreeDataView InstanceDataView, const IStateTreeBindingLookup& BindingLookup, EStateTreeNodeFormatting Formatting /*= EStateTreeNodeFormatting::Text*/) const
