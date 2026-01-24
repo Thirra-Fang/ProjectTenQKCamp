@@ -9,124 +9,56 @@
 
 EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::EnterState(FStateTreeExecutionContext& Context, const FStateTreeTransitionResult& Transition) const
 {
-	// have we transitioned from another state?
+	// 是否从另一个状态过渡而来？
 	if (Transition.ChangeType == EStateTreeStateChangeType::Changed)
 	{
-		// get the instance data
+		// 获取实例数据
 		FInstanceDataType& InstanceData = Context.GetInstanceData(*this);
 		
 
-		// bind the perception updated delegate on the controller
+		// 将感知更新委托绑定到控制器上
 		InstanceData.Controller->OnShooterPerceptionUpdated.BindLambda(
 			[WeakContext = Context.MakeWeakExecutionContext()](AActor* SensedActor, const FAIStimulus& Stimulus)
 			{
 				UE_LOG(LogTemp,Error,TEXT("监测发生更新"));
-				// get the instance data inside the lambda
+				// 获取lambda内部的实例数据
 				const FStateTreeStrongExecutionContext StrongContext = WeakContext.MakeStrongExecutionContext();
 				if (FInstanceDataType* LambdaInstanceData = StrongContext.GetInstanceDataPtr<FInstanceDataType>())
 				{
 					if (SensedActor->ActorHasTag(LambdaInstanceData->SenseTag))
 					{
-						bool bDirectLOS = false;
-
-						// calculate the direction of the stimulus
-						const FVector StimulusDir = (Stimulus.StimulusLocation - LambdaInstanceData->Character->GetActorLocation()).GetSafeNormal();
-
-						// infer the angle from the dot product between the character facing and the stimulus direction
-						const float DirDot = FVector::DotProduct(StimulusDir, LambdaInstanceData->Character->GetActorForwardVector());
-						const float MaxDot = FMath::Cos(FMath::DegreesToRadians(LambdaInstanceData->DirectLineOfSightCone));
-
-						// is the direction within our perception cone?
-						if (DirDot >= MaxDot)
+						//加入感知到的Actor集
+						LambdaInstanceData->PerceivedActors.Emplace(SensedActor);
+						if (!LambdaInstanceData->bHasTarget)
 						{
-							// run a line trace between the character and the sensed actor
-							FCollisionQueryParams QueryParams;
-							QueryParams.AddIgnoredActor(LambdaInstanceData->Character);
-							QueryParams.AddIgnoredActor(SensedActor);
-
-							FHitResult OutHit;
-
-							// we have direct line of sight if this trace is unobstructed
-							bDirectLOS = !LambdaInstanceData->Character->GetWorld()->LineTraceSingleByChannel(OutHit, LambdaInstanceData->Character->GetActorLocation(), SensedActor->GetActorLocation(), ECC_Visibility, QueryParams);
-
-						}
-
-						// check if we have a direct line of sight to the stimulus
-						if (bDirectLOS)
-						{
-							// set the controller's target
-							LambdaInstanceData->Controller->SetCurrentTarget(SensedActor);
-
-							// set the task output
-							LambdaInstanceData->TargetActor = SensedActor;
-
-							// set the flags
-							LambdaInstanceData->bHasTarget = true;
-							LambdaInstanceData->bHasInvestigateLocation = false;
-
-						// no direct line of sight to target
-						} else {
-
-							// if we already have a target, ignore the partial sense and keep on them
-							if (!IsValid(LambdaInstanceData->TargetActor))
-							{
-								// is this stimulus stronger than the last one we had?
-								if (Stimulus.Strength > LambdaInstanceData->LastStimulusStrength)
-								{
-									// update the stimulus strength
-									LambdaInstanceData->LastStimulusStrength = Stimulus.Strength;
-
-									// set the investigate location
-									LambdaInstanceData->InvestigateLocation = Stimulus.StimulusLocation;
-
-									// set the investigate flag
-									LambdaInstanceData->bHasInvestigateLocation = true;
-								}
-							}
+							// 设置调查地点
+							LambdaInstanceData->InvestigateLocation = Stimulus.StimulusLocation;
+							// 设置调查标志
+							LambdaInstanceData->bHasInvestigateLocation = true;
 						}
 					}
 				}
 			}
 		);
 
-		// bind the perception forgotten delegate on the controller
+		// 将感知绑定到控制器上被遗忘的委托
 		InstanceData.Controller->OnShooterPerceptionForgotten.BindLambda(
 			[WeakContext = Context.MakeWeakExecutionContext()](AActor* SensedActor)
 			{
 				UE_LOG(LogTemp,Error,TEXT("监测已遗忘"));
-				// get the instance data inside the lambda
+				// 获取lambda内部的实例数据
 				const FStateTreeStrongExecutionContext StrongContext = WeakContext.MakeStrongExecutionContext();
 				if (FInstanceDataType* LambdaInstanceData = StrongContext.GetInstanceDataPtr<FInstanceDataType>())
 				{
-					bool bForget = false;
-
-					// are we forgetting the current target?
+					LambdaInstanceData->PerceivedActors.Remove(SensedActor);
+					// 我们是否忘记了当前的目标？
 					if (SensedActor == LambdaInstanceData->TargetActor)
 					{
-						bForget = true;
-					}
-					else 
-					{
-						// are we forgetting about a partial sense?
-						if (!IsValid(LambdaInstanceData->TargetActor))
-						{
-							bForget = true;
-						}
-					}
-
-					if (bForget)
-					{
-						// clear the target
+						// 清除目标
 						LambdaInstanceData->TargetActor = nullptr;
-
-						// clear the flags
-						LambdaInstanceData->bHasInvestigateLocation = false;
+						// 清除标志
 						LambdaInstanceData->bHasTarget = false;
-
-						// reset the stimulus strength
-						LambdaInstanceData->LastStimulusStrength = 0.0f;
-
-						// clear the target on the controller
+						// 清除控制器上的目标
 						LambdaInstanceData->Controller->ClearCurrentTarget();
 						LambdaInstanceData->Controller->ClearFocus(EAIFocusPriority::Gameplay);
 					}
@@ -134,19 +66,17 @@ EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::EnterState(FStateTreeExec
 			}
 		);
 	}
-
 	return EStateTreeRunStatus::Running;
 }
 
 void FStateTreeTestFPSSenseEnemiesTask::ExitState(FStateTreeExecutionContext& Context, const FStateTreeTransitionResult& Transition) const
 {
-	// have we transitioned to another state?
+	// 是否已进入另一种状态？
 	if (Transition.ChangeType == EStateTreeStateChangeType::Changed)
 	{
-		// get the instance data
+		// 获取实例数据
 		FInstanceDataType& InstanceData = Context.GetInstanceData(*this);
-
-		// unbind the perception delegates
+		// 解除感知委托
 		InstanceData.Controller->OnShooterPerceptionUpdated.Unbind();
 		InstanceData.Controller->OnShooterPerceptionForgotten.Unbind();
 	}
@@ -206,6 +136,38 @@ EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::Tick(FStateTreeExecutionC
 		10,
 		1.0f
 		);
+	//以下部分Tick检查是否能看到Actor
+	if (!InstanceData.bHasTarget)
+	{
+		for (auto& actor:InstanceData.PerceivedActors)
+		{
+			FVector TargetDir=(actor->GetActorLocation()-InstanceData.Character->GetActorLocation()).GetSafeNormal();
+			// 根据角色朝向与刺激方向之间的点积推断角度
+			const float DirDot = FVector::DotProduct(TargetDir, InstanceData.Character->GetActorForwardVector());
+			const float MaxDot = FMath::Cos(FMath::DegreesToRadians(InstanceData.DirectLineOfSightCone));
+			// 是否在我们的感知锥范围内？
+			if (DirDot >= MaxDot)
+			{
+				// 在角色与感知到的演员之间绘制一条线条
+				FCollisionQueryParams QueryParams;
+				QueryParams.AddIgnoredActor(InstanceData.Character);
+				QueryParams.AddIgnoredActor(actor);
+				FHitResult OutHit;
+				// 检查我们是否与刺激源存在直接视线连接
+				if (!InstanceData.Character->GetWorld()->LineTraceSingleByChannel(OutHit, InstanceData.Character->GetActorLocation(), actor->GetActorLocation(), ECC_Visibility, QueryParams))
+				{
+					// 设置控制器的目标
+					InstanceData.Controller->SetCurrentTarget(actor);
+					// 设置任务输出
+					InstanceData.TargetActor = actor;
+					// 设置标志
+					InstanceData.bHasTarget = true;
+					InstanceData.bHasInvestigateLocation = false;
+				} 
+			}
+		}
+	}
+	
 	return EStateTreeRunStatus::Running;
 }
 
