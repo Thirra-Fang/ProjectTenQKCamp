@@ -86,56 +86,6 @@ EStateTreeRunStatus FStateTreeTestFPSSenseEnemiesTask::Tick(FStateTreeExecutionC
 	const float DeltaTime) const
 {
 	FInstanceDataType& InstanceData = Context.GetInstanceData(*this);
-	DrawDebugLine(
-			InstanceData.Character->GetWorld(),
-			InstanceData.Character->GetActorLocation(),
-			InstanceData.Character->GetActorLocation()+500.0f*InstanceData.Character->GetActorForwardVector(),
-			FColor::Red,
-			false,
-			-1.0f,
-			10,
-			5.0f
-		);
-	if (InstanceData.bHasTarget)
-	{
-		DrawDebugLine(
-			InstanceData.Character->GetWorld(),
-			InstanceData.Character->GetActorLocation(),
-			InstanceData.TargetActor->GetActorLocation(),
-			FColor::Green,
-			false,
-			-1.0f,
-			10,
-			5.0f
-		);
-	}
-	if (InstanceData.bHasInvestigateLocation)
-	{
-		DrawDebugLine(
-			InstanceData.Character->GetWorld(),
-			InstanceData.Character->GetActorLocation(),
-			InstanceData.InvestigateLocation,
-			FColor::Yellow,
-			false,
-			-1.0f,
-			10,
-			5.0f
-		);
-	}
-	DrawDebugCone(
-		InstanceData.Character->GetWorld(),
-		InstanceData.Character->GetActorLocation(),
-		InstanceData.Character->GetActorForwardVector(),
-		500.0f,
-		FMath::DegreesToRadians(InstanceData.DirectLineOfSightCone),
-		FMath::DegreesToRadians(InstanceData.DirectLineOfSightCone),
-		16,
-		FColor::Red,
-		false,
-		-1.0f,
-		10,
-		1.0f
-		);
 	//以下部分Tick检查是否能看到Actor
 	if (!InstanceData.bHasTarget)
 	{
