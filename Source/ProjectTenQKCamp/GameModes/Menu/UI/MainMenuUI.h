@@ -13,5 +13,7 @@ UCLASS()
 class PROJECTTENQKCAMP_API UMainMenuUI : public UUserWidget
 {
 	GENERATED_BODY()
-	
+public:
+	UFUNCTION(BlueprintCallable,Category="切换Level",DisplayName="打开测试场景")
+	void BP_EnterTestLevel_1();
 };
